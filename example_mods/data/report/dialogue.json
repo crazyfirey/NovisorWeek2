@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.11,
+			"portrait": "mregg",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "RIA, NOOOOOOOOOOOOOOOOOOOO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mregg",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOU'LL PAY FOR THIS!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It's not me, I'm not An Impostor you stupid fucking ass"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mregg",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "LET'S RAP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mregg",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If I win, I will tell everyone to vote you out!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "mregg",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you win, You admit you're not An Impostor"
+		},
+		{
+			"speed": 0.3,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BET"
+		}
+	]
+}

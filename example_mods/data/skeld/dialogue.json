@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lights are out!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Gotta go to Eletrical to fix the lights"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea, We need to get to the lights work or\\nthe fucking Impostor will fucking kill us"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Wait SHHHH, Do you know Novisor is on the\\nlose???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHAAAAA????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who the fuck is Novisor?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A fucking ghost that is gonna kill us!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This dumbass is not real my g, you're just making that up!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "How can Novisor be real, he could be real."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Tell you what, If we rap battle, If I win, you proof that Novisor could be real."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well he's not real but ok..."
+		}
+	]
+}

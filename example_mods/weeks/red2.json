@@ -1,0 +1,48 @@
+{
+	"storyName": "STORY Of Novisor",
+	"hideFreeplay": false,
+	"weekBackground": "junk",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"Visor",
+			"duncan",
+			[
+				35,
+				20,
+				20
+			]
+		],
+		[
+			"Corrupted",
+			"novisor",
+			[
+				186,
+				0,
+				0
+			]
+		],
+		[
+			"Trapped",
+			"monster-novisor",
+			[
+				86,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

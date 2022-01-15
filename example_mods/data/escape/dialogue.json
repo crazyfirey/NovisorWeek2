@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HOLY SHIT!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IT'S NOVISOR!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HE ALSO KILLED LIME!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IM GETTING SCARED"
+		},
+		{
+			"speed": 0.2,
+			"portrait": "novisor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi........you......gonna.......die"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I'M NOT GONNA DIE FROM THIS SHIT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "UNLESS IF YOU RAP BATTLE WITH ME!!!"
+		},
+		{
+			"speed": 0.2,
+			"portrait": "novisor",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well.........you're.......still.......gonna........DIE"
+		}
+	]
+}

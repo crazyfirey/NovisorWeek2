@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hat.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hat down0000" x="0" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0001" x="1422" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0002" x="2844" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0003" x="4266" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0004" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0005" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0006" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0007" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0008" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0009" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0010" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0011" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0012" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat down0013" x="5688" y="0" width="1422" height="1413"/>
+	<SubTexture name="hat idle0000" x="0" y="1413" width="1422" height="1413"/>
+	<SubTexture name="hat idle0001" x="1422" y="1413" width="1422" height="1413"/>
+	<SubTexture name="hat idle0002" x="2844" y="1413" width="1422" height="1413"/>
+	<SubTexture name="hat idle0003" x="4266" y="1413" width="1422" height="1413"/>
+	<SubTexture name="hat idle0004" x="5688" y="1413" width="1422" height="1413"/>
+	<SubTexture name="hat idle0005" x="0" y="2826" width="1422" height="1413"/>
+	<SubTexture name="hat idle0006" x="1422" y="2826" width="1422" height="1413"/>
+	<SubTexture name="hat idle0007" x="2844" y="2826" width="1422" height="1413"/>
+	<SubTexture name="hat idle0008" x="4266" y="2826" width="1422" height="1413"/>
+	<SubTexture name="hat idle0009" x="5688" y="2826" width="1422" height="1413"/>
+	<SubTexture name="hat idle0010" x="0" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat idle0011" x="1422" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat idle0012" x="2844" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat idle0013" x="4266" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat idle0014" x="2844" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat idle0015" x="2844" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat idle0016" x="2844" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat idle0017" x="2844" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat idle0018" x="2844" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat idle0019" x="2844" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat left0000" x="5688" y="4239" width="1422" height="1413"/>
+	<SubTexture name="hat left0001" x="0" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0002" x="1422" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0003" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0004" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0005" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0006" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0007" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0008" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0009" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0010" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0011" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0012" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat left0013" x="2844" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat right0000" x="4266" y="5652" width="1422" height="1413"/>
+	<SubTexture name="hat right0001" x="5688" y="5652" width="1422" height="1413"/>
+</TextureAtlas>

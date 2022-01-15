@@ -1,0 +1,95 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good thing we got away from that fucking Novisor"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea, he's kinda fucking scary of course"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dude, that is what happen to novisor, he's a ghost and take people off's visors."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bad Thing is that Legend shit is gonna kill us!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the fuck do you mean?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He's a most creepy person and always take everyone visors off"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Innersloth keeps trying to patch him out"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "But Novisor dosen't find a way to survive"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WOAH!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THAT'S FUCKING CREEPYING ME OUT!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah me too!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I think rap battle might help.   or not..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, but I don't to die all over that Novisor Ghost that is going to fucking kill us."
+		}
+	]
+}

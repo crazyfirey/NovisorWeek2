@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="duncan_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="duncan down0000" x="0" y="0" width="797" height="797"/>
+	<SubTexture name="duncan down0001" x="797" y="0" width="797" height="797"/>
+	<SubTexture name="duncan down0002" x="1594" y="0" width="797" height="797"/>
+	<SubTexture name="duncan down0003" x="2391" y="0" width="797" height="797"/>
+	<SubTexture name="duncan down0004" x="3188" y="0" width="797" height="797"/>
+	<SubTexture name="duncan down0005" x="3188" y="0" width="797" height="797"/>
+	<SubTexture name="duncan down0006" x="3188" y="0" width="797" height="797"/>
+	<SubTexture name="duncan down0007" x="3188" y="0" width="797" height="797"/>
+	<SubTexture name="duncan down0008" x="3188" y="0" width="797" height="797"/>
+	<SubTexture name="duncan down0009" x="3188" y="0" width="797" height="797"/>
+	<SubTexture name="duncan idle0000" x="3985" y="0" width="797" height="797"/>
+	<SubTexture name="duncan idle0001" x="4782" y="0" width="797" height="797"/>
+	<SubTexture name="duncan idle0002" x="5579" y="0" width="797" height="797"/>
+	<SubTexture name="duncan idle0003" x="6376" y="0" width="797" height="797"/>
+	<SubTexture name="duncan idle0004" x="7173" y="0" width="797" height="797"/>
+	<SubTexture name="duncan idle0005" x="0" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0006" x="797" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0007" x="1594" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0008" x="2391" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0009" x="3188" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0010" x="3985" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0011" x="4782" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0012" x="5579" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0013" x="6376" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0014" x="6376" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0015" x="7173" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0016" x="7173" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0017" x="7173" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0018" x="7173" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0019" x="7173" y="797" width="797" height="797"/>
+	<SubTexture name="duncan idle0020" x="7173" y="797" width="797" height="797"/>
+	<SubTexture name="duncan left0000" x="0" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan left0001" x="797" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan left0002" x="1594" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan left0003" x="2391" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan left0004" x="3188" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan left0005" x="3188" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan left0006" x="3188" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan left0007" x="3188" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan left0008" x="3188" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan left0009" x="3188" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0000" x="3985" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0001" x="4782" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0002" x="5579" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0003" x="6376" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0004" x="7173" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0005" x="7173" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0006" x="7173" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0007" x="7173" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0008" x="7173" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan right0009" x="7173" y="1594" width="797" height="797"/>
+	<SubTexture name="duncan up0000" x="0" y="2391" width="797" height="797"/>
+	<SubTexture name="duncan up0001" x="797" y="2391" width="797" height="797"/>
+	<SubTexture name="duncan up0002" x="1594" y="2391" width="797" height="797"/>
+	<SubTexture name="duncan up0003" x="2391" y="2391" width="797" height="797"/>
+	<SubTexture name="duncan up0004" x="3188" y="2391" width="797" height="797"/>
+	<SubTexture name="duncan up0005" x="3188" y="2391" width="797" height="797"/>
+	<SubTexture name="duncan up0006" x="3188" y="2391" width="797" height="797"/>
+	<SubTexture name="duncan up0007" x="3188" y="2391" width="797" height="797"/>
+	<SubTexture name="duncan up0008" x="3188" y="2391" width="797" height="797"/>
+	<SubTexture name="duncan up0009" x="3188" y="2391" width="797" height="797"/>
+</TextureAtlas>

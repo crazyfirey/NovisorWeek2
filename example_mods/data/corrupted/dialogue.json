@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good Rapping, right?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duncan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea kind of but wanna see our new game called Among Us?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I absolutely know what's Among Us dumbass"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duncan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, Ok geez"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "duncan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "come play on it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WAIT!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Where the fuck am I at\\nFucking Cafeteria???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "novisored",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Novisor, Novisor, Novisor, We will make you one of us!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "novisored",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Novisor, Novisor, Novisor, We will make you one of us!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "STOP REPEATING THIS SHIT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "novisored",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Novisor, Novisor, Novisor, We will make you one of us!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GET ME THE FUCK OUT OF THIS SHIT!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "novisored",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Novisor, Novisor, Novisor, We will make you one of us!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "FUCK!"
+		}
+	]
+}

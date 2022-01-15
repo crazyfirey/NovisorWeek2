@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, I win"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I guess but, Veteran wanna rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OH uhhh, sure I guess"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "player",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why are you acting so fucking werid?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Nothing, I'm just too excited, I just want to do rap battle"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You Ready Veteran, Let's do this"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "veteran",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea uhhh, ok"
+		}
+	]
+}

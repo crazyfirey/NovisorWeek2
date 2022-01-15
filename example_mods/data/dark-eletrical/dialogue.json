@@ -1,0 +1,179 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "mregg",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, looks like your not an impostor then"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well, We need to finished task to win the Among Us Game"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SHIT, THE LIGHTS ARE OUT AND MREGG DISAPPERED"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "HA, there it is, finally"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the devil was that"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WAIT, who are you, ARE YOU AN IMPOSTOR"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NO, NO I'M NOT, CALM DOWN"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well,-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "WAIT"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Why is this computer on..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the devil are you talking about-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, it is"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wait?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Is that MrEgg!!!???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And he turn into a ghost and vented"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "THIS GAME IS HAUNTED!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I KNOW, CAUSE OF NOVISOR"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What, Who's novisor?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "A criminal person and he's scary ghost"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "NAH, he's not real, let's rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If I win, I admit it's not real"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gentleman",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If you win, You admit that he is real"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf-dialogue",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, Let's do it"
+		}
+	]
+}
